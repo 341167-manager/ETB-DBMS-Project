@@ -1,4 +1,4 @@
-<h1>ETB-Project-DBMS-</h1>
+<h1>ETB_Project_DBMS</h1>
 
 <!-- ER Diagram image rendered inline -->
 <p align="center">
